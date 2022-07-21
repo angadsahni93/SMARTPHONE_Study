@@ -1,4 +1,4 @@
-<p align="right"> <img width="200" src="nrg_logo.jpeg" alt="logo"> </p>
+<p align="center"> <img width="200" src="nrg_logo.jpeg" alt="logo"> </p>
 
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
