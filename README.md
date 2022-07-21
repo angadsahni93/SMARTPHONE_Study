@@ -62,7 +62,7 @@ The page should look like this:
 <style>
       .frame {
         width: 300px;
-        height: 630px;
+        height: 634px;
         border: 1px solid #ccc;
         background: #eee;
         margin: auto;
