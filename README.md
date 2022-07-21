@@ -19,7 +19,7 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 
 ## Instruction Video
 
-<iframe width="836" height="470" src="https://www.youtube.com/embed/AivE2o9IXr4" title="University of Reading || PsyMate2 || SMARTPHONE Study Instructions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="836" height="470" src="https://www.youtube.com/embed/AivE2o9IXr4" title="University of Reading || PsyMate2 || SMARTPHONE Study Instructions" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <h3 style="color:red">IMPORTANT</h3>
