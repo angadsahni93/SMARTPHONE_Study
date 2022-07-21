@@ -46,7 +46,7 @@ Both links are available on the PsyMate website: [https://www.psymate.eu](https:
 <br>
 
 **Step 2**<br> 
-Scan your **unique QR code** you will have received by email. If the login details don’t work, please email one of the [researchers](README.md#this-is-a-study-being-conducted-by-the-nrg-nrg-labcouk-by-the-following-researchers). 
+Scan your **unique QR code** you will have received by email. If the login details don’t work, please email either <a href="mailto:a.sahni@pgr.reading.ac.uk">Angad Sahni</a> or <a href="mailto:t.vermani@student.reading.ac.uk">Tarun Vermani</a>. 
 <br>
 <br>
 
