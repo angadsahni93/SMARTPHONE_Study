@@ -1,6 +1,6 @@
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
-This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:<br><br>
+##### This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:<br><br>
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.uk</a>) 
 
 Angad Sahni (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
@@ -46,7 +46,7 @@ Both links are available on the PsyMate website: [https://www.psymate.eu](https:
 <br>
 
 **Step 2**<br> 
-Scan your **unique QR code** you will have received by email. If the login details don’t work, please email **Angad Sahni**. 
+Scan your **unique QR code** you will have received by email. If the login details don’t work, please email one of the [researchers](README.md#this-is-a-study-being-conducted-by-the-nrg-nrg-labcouk-by-the-following-researchers). 
 <br>
 <br>
 
