@@ -3,9 +3,9 @@ This page contains information about the SMARTPHONE study being conducted by the
 ##### This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.uk</a>) 
 
-Angad Sahni (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
+Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
 
-Tarun Vermani (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@student.reading.ac.uk</a>)
+Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@student.reading.ac.uk</a>)
 
 <br>
 
@@ -62,8 +62,6 @@ The page should look like this:
 **Step 4** <br>
 Go to the menu by clicking the **3 horizontal bars** in the top left of the screen, then select Settings.<br> Then go to sound settings and choose your notification sound. You should use the ‘Alarm’ option.<br>
 Please also go into the settings of your phone and ensure that PsyMate notifications are enabled on the device and ensure it is not on do not disturb. 
-
-<br>
 <br>
 
 **Step 5**<br> 
