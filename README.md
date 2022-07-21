@@ -1,4 +1,4 @@
-<body style="background-color:e4e4e4;"></body>
+<body style="background-color:#e4e4e4;"></body>
 
 <p align="center"> <img width="200" src="nrg_logo.jpeg" alt="logo"> </p>
 
