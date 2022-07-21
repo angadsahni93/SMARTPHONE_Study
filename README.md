@@ -62,11 +62,11 @@ The page should look like this:
 <style>
       .frame {
         width: 300px;
-        height: 250px;
-        border: 3px solid #ccc;
+        height: 800px;
+        border: 1px solid #ccc;
         background: #eee;
         margin: auto;
-        padding: 15px 10px;
+        padding: 5px 5px;
       }
   </style>
 <p align="center" class="frame"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
