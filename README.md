@@ -59,7 +59,7 @@ After completing the login process, please make sure you **complete all items** 
 The page should look like this:  
 <br>
 <br>
-<p align="center"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
+<p align="center" frameborder="10"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
 <br>
 <br>
 
