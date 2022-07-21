@@ -1,6 +1,6 @@
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
 
-##### This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:<br><br>
+##### This is a study being conducted by the NRG ([nrg-lab.co.uk](https://www.nrg-lab.co.uk/)) by the following researchers:
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.uk</a>) 
 
 Angad Sahni (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
