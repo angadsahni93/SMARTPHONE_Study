@@ -59,7 +59,17 @@ After completing the login process, please make sure you **complete all items** 
 The page should look like this:  
 <br>
 <br>
-<p align="center" frameborder="10"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
+<style>
+      .frame {
+        width: 300px;
+        height: 250px;
+        border: 3px solid #ccc;
+        background: #eee;
+        margin: auto;
+        padding: 15px 10px;
+      }
+  </style>
+<p align="center" class="frame"> <img width="300" src="psymate2.png" alt="psymate2"> </p>
 <br>
 <br>
 
