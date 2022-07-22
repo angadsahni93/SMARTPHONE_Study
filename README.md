@@ -38,24 +38,25 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 **Step 1** <br>
 Download the <b>PsyMate2</b> application from one of the links below, based on which mobile type you are using:<br><br>
 The **iPhone** link can be found here: [https://apps.apple.com/gb/app/psymate-2/id1185231488](https://apps.apple.com/gb/app/psymate-2/id1185231488) <br>
-The **Android** link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br><br>
-Or you can open the AppStore yourself and download the application by searching for <b>PsyMate2</b> and looking for the logo:
+The **Android** link can be found here: [https://play.google.com/store/apps/details?id=eu.smarthealth.umesm](https://play.google.com/store/apps/details?id=eu.smarthealth.umesm) <br>
+Both links are available on the PsyMate website: [https://www.psymate.eu](https://www.psymate.eu)<br><br>
+Or you can open the AppStore yourself and download the application<br>by searching for <b>PsyMate2</b> and looking for the logo:
 <br>
 <br>
 <p align="center"> <img width="200" src="psymate.jpg" alt="psymate"> </p>
 <br>
 
-Both links are available on the PsyMate website: [https://www.psymate.eu](https://www.psymate.eu)
 <br>
 <br>
 
 **Step 2**<br> 
-Scan your **unique QR code** you will have received by email. If the login details don’t work, please email either <a href="mailto:a.sahni@pgr.reading.ac.uk">Angad Sahni</a> or <a href="mailto:t.vermani@student.reading.ac.uk">Tarun Vermani</a>. 
+Scan your **unique QR code** you will have received by email.<br>If the login details don’t work, please email either <a href="mailto:a.sahni@pgr.reading.ac.uk">Angad Sahni</a> or <a href="mailto:t.vermani@student.reading.ac.uk">Tarun Vermani</a>. 
 <br>
 <br>
 
 **Step 3**<br>
-After completing the login process, please make sure you **complete all items** before leaving this page or your data may not be usable.<br>
+After completing the login process, please make sure you **complete all items**<br>
+before leaving this page or your data may not be usable.<br>
 The page should look like this:  
 <br>
 <br>
