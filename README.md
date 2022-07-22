@@ -17,7 +17,7 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 
 <br>
 
-## Instruction Video
+# Instruction Video
 
 <iframe width="836" height="470" src="https://www.youtube.com/embed/AivE2o9IXr4" title="University of Reading || PsyMate2 || SMARTPHONE Study Instructions" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -33,7 +33,7 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 <br>
 <br>
 
-## Written Instructions
+# Written Instructions
 
 **Step 1** <br>
 Download the <b>PsyMate2</b> application from one of the links below, based on which mobile type you are using:<br><br>
