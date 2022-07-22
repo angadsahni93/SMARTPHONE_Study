@@ -74,20 +74,25 @@ The page should look like this:
 <br>
 
 **Step 4** <br>
-Go to the menu by clicking the **3 horizontal bars** in the top left of the screen, then select Settings.<br> Then go to sound settings and choose your notification sound. You should use the ‘Alarm’ option.<br>
-Please also go into the settings of your phone and ensure that PsyMate notifications are enabled on the device and ensure it is not on do not disturb.
+Go to the menu by clicking the **3 horizontal bars** in the top left of the screen, then select Settings.<br> 
+Then go to sound settings and choose your <b>notification sound</b>. You should use the ‘Alarm’ option.
+<br><br>
+Please also go into the settings of your phone and ensure that <b>PsyMate notifications are enabled</b><br>on the device and ensure it is not on do not disturb.
 
 <br>
 <br>
 
 **Step 5**<br> 
-Close or minimise the PsyMate App – you should start receiving notifications within a few hours.<br> If you do not receive one by the end of the day, please contact a member of the research team. **Only the Beep questionnaire will be repeated**.
+Close or minimise the PsyMate App – you should start receiving notifications within a few hours.<br> 
+If you do not receive one by the end of the day, please contact a member of the research team. <br>
+**Only the Beep questionnaire will be repeated**.
 
 <br>
 <br>
 
 **Step 6**<br>
-After the final ‘beep’ prompt, you will receive a **debrief form** to complete. Please complete this and then <b><u>log out</u></b> of the PsyMate app.
+After the final ‘beep’ prompt on <b>day 7</b>, you will receive a **debrief form** to complete.<br> 
+Please complete this and then <b><u>log out</u></b> of the PsyMate app.
 
 <br>
 <br>
