@@ -51,6 +51,7 @@ Or you can open the AppStore yourself and download the application<br>by searchi
 
 **Step 2**<br> 
 Scan your **unique QR code** you will have received by email.<br>If the login details don’t work, please email either <a href="mailto:a.sahni@pgr.reading.ac.uk">Angad Sahni</a> or <a href="mailto:t.vermani@student.reading.ac.uk">Tarun Vermani</a>. 
+
 <br>
 <br>
 
