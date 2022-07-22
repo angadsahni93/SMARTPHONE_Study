@@ -44,7 +44,6 @@ Or you can open the AppStore yourself and download the application<br>by searchi
 <br>
 <br>
 <p align="center"> <img width="200" src="psymate.jpg" alt="psymate"> </p>
-<br>
 
 <br>
 <br>
