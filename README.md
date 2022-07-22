@@ -104,3 +104,7 @@ Please complete this and then <b><u>log out</u></b> of the PsyMate app.
 2.	If you fail to complete a test, it’s okay. Please ensure you **complete as many as possible**. 
 3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
+<br>
+<br>
+<br>
+<br>
