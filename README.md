@@ -95,7 +95,7 @@ Please also go into the settings of your phone and ensure that <b>PsyMate notifi
 
 **Step 5**<br> 
 Close or minimise the PsyMate App – you should start receiving notifications within a few hours.<br> 
-If you do not receive one by the end of the day, please contact a member of the research team. <br>
+If you do not receive one by the end of the day, <b>please contact a member of the research team</b>. <br>
 **Only the Beep questionnaire will be repeated**.
 
 <br>
