@@ -135,7 +135,7 @@ body {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #53B2C5;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -144,7 +144,7 @@ body {
 
 #myBtn:hover {
   background-color: white;
-  color: red;
+  color: #53B2C5;
 }
 </style>
 
