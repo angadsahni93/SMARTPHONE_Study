@@ -88,7 +88,8 @@ The page should look like this:
 Go to the menu by clicking the **3 horizontal bars** in the top left of the screen, then select Settings.<br> 
 Then go to sound settings and choose your <b>notification sound</b>. You should use the ‘Alarm’ option.
 <br><br>
-Please also go into the settings of your phone and ensure that <b>PsyMate notifications are enabled</b><br>on the device and ensure it is not on do not disturb.
+Please also go into the <b>Settings</b> of your phone and ensure that <b>PsyMate notifications are enabled</b><br>
+on the device, and that it is not on do not disturb.
 
 <br>
 <br>
