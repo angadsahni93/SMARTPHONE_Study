@@ -39,7 +39,10 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 3.	Be sure to <b><u>log out</u></b> after the debrief form has been filled, or else **your data will not be sent**.<br> You need an active internet connection to be able to upload your data.
 
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
+<br>
+<br>
 
+![](https://c.tenor.com/JdPzlj3pOFoAAAAC/approve-ok.gif)
 <br>
 <br>
 <br>
