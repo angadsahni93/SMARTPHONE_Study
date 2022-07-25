@@ -15,8 +15,12 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 ### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#written-instructions) form. <br>Both contain the same information.
 
 <br>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px">
+<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b>
+<br>
+<br>
 
-# Take Part!
+# Contribute To Research
 <br>
 <br>
 <p align="center"> <img width="1000" src="ESM_poster.jpg" alt="poster"> </p> 
@@ -41,8 +45,6 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 <h3 style="color:red">Remember: Every Beep Counts!</h3>
 <br>
 <br>
-
-![](https://c.tenor.com/JdPzlj3pOFoAAAAC/approve-ok.gif)
 <br>
 <br>
 <br>
