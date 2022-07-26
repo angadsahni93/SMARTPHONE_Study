@@ -15,8 +15,8 @@ Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.v
 ### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#written-instructions) form. <br>Both contain the same information.
 
 <br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
-<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a1188b36248031.57153f1f13292.gif" style="height:300px"><br>
+<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b> </p>
 <br>
 <br>
 
