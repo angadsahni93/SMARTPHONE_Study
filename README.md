@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="200" src="nrg-logo.jpg" alt="logo"> </p>
 
-<iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="500"></iframe><br>
+<p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="500"></iframe></p><br>
 
 
 This page contains information about the SMARTPHONE study being conducted by the NRG lab, University of Reading. <br>
