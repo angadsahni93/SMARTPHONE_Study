@@ -12,7 +12,9 @@ Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.
 
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
 
-Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@student.reading.ac.uk</a>)
+Tarun Vermani, MSc Student (<a href="mailto:t.vermani@student.reading.ac.uk">t.vermani@student.reading.ac.uk</a>) 
+
+<!-- Manasa Veluvali, MSc Student (<a href="mailto:m.veluvali@student.reading.ac.uk">m.veluvali@student.reading.ac.uk</a>) -->
 <br>
 
 ### You can view the instructions in [<u>video</u>](README.md#instruction-video) or [<u>written</u>](README.md#written-instructions) form. <br>Both contain the same information.
